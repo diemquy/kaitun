@@ -7,8 +7,8 @@ if getgenv().Setting then else
         ["Auto Rengoku"] = true,
         ["Auto Kill Cake Prince"] = true,
 
-        ["Devil Fruit Sniper Name"] = "Dough",
-        ["Devil Fruit Sniper"] = true,
+        ["Devil Fruit Sniper Name"] = "",
+        ["Devil Fruit Sniper"] = false,
         ["Auto Awakeken"] = true,
         ["Secret"] = true,
     }
